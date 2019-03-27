@@ -16,6 +16,13 @@ In this project, the data set used is the Kickstarter data set,extracted from Ka
  * The training and testing data have feature variables which should be independent of each other and the taget variable which is dependent on the feature variable.
  * The feature variables taken are : usd_pledged_amount,backers,goal_amount,project_year
  * The target variable for training data are the observations whose project state is "Successful" or "Failure" and for the testing data it is the observations whose project state is "Live"
- *
+ * After splitting the data, we run the KNN model on the data
+ * After the prediction, the result is an array of live projects which are labelled as successful or failed. 
+ * So, all the live projects are predicted to be successful or failure.
+ * The accuracy obtained is 92% using the KNN algorithm.
+ * Apart from the KNN algorithm,Logistic Regression model has also been tested for the same training and testing data.
+ * The accuracy obtained is 80% using the Logistic regression. 
+ 
+
 
 
