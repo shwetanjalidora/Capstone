@@ -20,9 +20,9 @@ In this project, the data set used is the Kickstarter data set,extracted from Ka
  * After splitting the data, we run the KNN model on the data
  * After the prediction, the result is an array of live projects which are labelled as successful or failed. 
  * So, all the live projects are predicted to be successful or failure.
- * The accuracy obtained is 92% using the KNN algorithm.
+ * The accuracy obtained is 94% using the KNN algorithm.
  * Apart from the KNN algorithm,Logistic Regression model has also been tested for the same training and testing data.
- * The accuracy obtained is 80% using the Logistic regression. 
+ * The accuracy obtained is 83% using the Logistic regression. 
  
  
  In summary, based on the feature variables taken, the KNN model gives better accuracy when compared to the Logistic Regression model.
