@@ -10,6 +10,7 @@ In this project, the data set used is the Kickstarter data set,extracted from Ka
  * Data Cleaning
  * Data manipulation
  * Exploratory Data Analysis
+ * Predictive Analysis
  
  ### KNN Classification Algorithm
  
