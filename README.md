@@ -23,6 +23,9 @@ In this project, the data set used is the Kickstarter data set,extracted from Ka
  * Apart from the KNN algorithm,Logistic Regression model has also been tested for the same training and testing data.
  * The accuracy obtained is 80% using the Logistic regression. 
  
+ 
+ In summary, based on the feature variables taken, the KNN model gives better accuracy when compared to the Logistic Regression model.
+ 
 
 
 
