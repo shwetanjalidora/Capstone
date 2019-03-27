@@ -1,4 +1,4 @@
-# Supervised Classification Algorithm using Python
+# Supervised Classification Algorithm using Python on Kickstarter Dataset
 
 ## Research Question: Predicting whether a currently "Live" project will Succeed or Fail based on the projects which were previously "Successful" or "Failure
 
